@@ -1,6 +1,5 @@
 # Hi, I'm Dmitriy 👋
-Software Engineer with more than 1 years of commertial experience. I have well knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Most of my work is in developing software for trading in financial markets.
+Software Engineer with more than 1 years of commertial experience. I have well knowledge in backend development on Java. Most of my work is in developing software for trading in financial markets.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=DimaZeland3&show_icons=true&count_private=true"><img
