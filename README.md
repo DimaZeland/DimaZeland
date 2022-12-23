@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Dmitriy 👋
 Software Engineer with more than 1 years of commertial experience. I have well knowledge in backend development on Java.
 In general worked with monolitic, microservice and serverless arthitectures. Most of my work is in developing software for trading in financial markets.
 
@@ -11,17 +11,12 @@ In general worked with monolitic, microservice and serverless arthitectures. Mos
 </p>
 
 <p align='center'>
-   💬 How to reach me: <a href="https://t.me/cme4x">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-</p>
-<p align='center'>
    <a href="https://t.me/cme4x" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>👈&nbsp;👈&nbsp;
 
  <p align='center'>
-  💬 How to reach me: 👆</a>
+  💬 How to reach me</a>
 </p>
 
 
