@@ -15,13 +15,20 @@ In general worked with monolitic, microservice and serverless arthitectures. Mos
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
+<p align='center'>
+   <a href="https://t.me/cme4x" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+
+ <p align='center'>
+  💬 How to reach me: 👆</a>
+</p>
 
 
 ### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   Co-founder of [Assistant Traders](http://assistant-traders.com/) project.
+*   Creator and author of [Assistant Traders](https://www.youtube.com/channel/UCFv_nGr8qpuX5ITMopY2d8A) YouTube channel.
+*   Write analytical reviews on trading and investing in financial markets.
 
 ## 🛠 Technical Stack
 *   Java/C++/JavaScript/HTML/MQL4 languages
