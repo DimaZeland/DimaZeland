@@ -1,5 +1,5 @@
 # Hi, I'm Dmitriy 👋
-Software Engineer with more than 1 years of commertial experience. I have well knowledge in backend development on Java. Most of my work is in developing software for trading in financial markets.
+Software Engineer with more than 1 year of commercial experience. I have well knowledge in backend development on Java. Most of my work is in developing software for trading in financial markets.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=DimaZeland3&show_icons=true&count_private=true"><img
@@ -18,7 +18,7 @@ Software Engineer with more than 1 years of commertial experience. I have well k
 
 ### 🎯 Key points
 *   Co-founder of [Assistant Traders](http://assistant-traders.com/) project.
-*   Creator and author of [Assistant Traders](https://www.youtube.com/channel/UCFv_nGr8qpuX5ITMopY2d8A) YouTube channel.
+*   Creator and author of [Assistant Traders'](https://www.youtube.com/channel/UCFv_nGr8qpuX5ITMopY2d8A) YouTube channel.
 *   Write analytical reviews on trading and investing in financial markets.
 
 ## 🛠 Technical Stack
