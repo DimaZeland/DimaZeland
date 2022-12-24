@@ -50,7 +50,7 @@ Software Engineer with more than 1 year of commercial experience. I have well kn
 
 ⏱️ Workflow Platforms 
 
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)![JENKINS](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 
 🖍 Design
 
