@@ -53,7 +53,7 @@
 
 📊 **Analytics**
 
-![WAKATIME](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)
+![SONARQUBE](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)![WAKATIME](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)
     
 ☁ **Cloud**
 
