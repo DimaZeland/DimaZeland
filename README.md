@@ -1,6 +1,5 @@
 ## Hi, I'm Dmitriy 👋
-💻 Software engineer with few years of commercial experience. I have well knowledge of Java backend development. Most of my work is software development for trading in financial markets.
-
+💻 Software engineer with few years of commercial experience. I have well knowledge of Java backend development. Most of my work is software development for trading in financial markets.  
 <p align='center'>
     <a href="https://github-readme-stats.vercel.app/api?username=DimaZeland3&show_icons=true&count_private=true"><img
             height=150
@@ -8,7 +7,6 @@
     <a href="https://github.com/DimaZeland/github-readme-stats"><img height=150
                                                                      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaZeland&layout=compact"/></a>
 </p>
-
 <p align='center'>
     💬 How to reach me: </a><a href="https://t.me/cme4x" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -91,8 +89,9 @@
     
 ![UDEMY](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 </details>
-<div align="center" style="margin: 40px 0">
+<div align="center" style="margin: 0px 0">
+    <a href="https://wakatime.com/@6502abe0-f62f-4745-88be-56e86cf264b3"><img src="https://wakatime.com/badge/user/6502abe0-f62f-4745-88be-56e86cf264b3.svg" alt="Total time coded since Jan 6 2023" /></a>
     <a href="https://github.com/DimaZeland">
-        <img width="140px" src="https://komarev.com/ghpvc/?username=DimaZeland&color=DE002D">
+        <img width="125px" src="https://komarev.com/ghpvc/?username=DimaZeland&color=DE002D">
     </a>
 </div>
