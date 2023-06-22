@@ -1,5 +1,5 @@
 ## Hi, I'm Dmitriy 👋
-💻 Software engineer with few years of commercial experience. I have well knowledge of Java backend development. Most of my work is software development for trading in financial markets.  
+💻 Software engineer with few years of commercial experience. I have well knowledge of Java full stack development. Most of my work is software development for trading in financial markets.  
 <p align='center'>
     <a href="https://github-readme-stats.vercel.app/api?username=DimaZeland3&show_icons=true&count_private=true"><img
             height=150
