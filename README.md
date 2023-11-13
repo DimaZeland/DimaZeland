@@ -90,7 +90,7 @@
 ![UDEMY](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 </details>
 <div align="center" style="margin: 0px 0">
-    <a href="https://wakatime.com/@6502abe0-f62f-4745-88be-56e86cf264b3"><img src="https://wakatime.com/badge/user/6502abe0-f62f-4745-88be-56e86cf264b3.svg" alt="Total time coded since Jan 6 2023" /></a>
+    <!--<a href="https://wakatime.com/@6502abe0-f62f-4745-88be-56e86cf264b3"><img src="https://wakatime.com/badge/user/6502abe0-f62f-4745-88be-56e86cf264b3.svg" alt="Total time coded since Jan 6 2023" /></a>-->
     <a href="https://github.com/DimaZeland">
         <img width="125px" src="https://komarev.com/ghpvc/?username=DimaZeland&color=DE002D">
     </a>
