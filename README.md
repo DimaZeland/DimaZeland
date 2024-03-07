@@ -8,7 +8,7 @@
                                                                      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimaZeland&layout=compact"/></a>
 </p>
 <p align='center'>
-    💬 How to reach me: </a><a href="https://t.me/cme4x" target="_blank">
+    💬 How to reach me: </a><a href="https://t.me/dima_zeland" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>👈
 </p>
@@ -17,8 +17,6 @@
     <summary>🎯 <b>Key points</b></summary>
 
 - Full Stack Software Engineer at <a href="https://unitalk.cloud/about-company/">UniTalk Cloud</a> 
-- Co-founder of <a href="http://assistant-traders.com">Assistant Traders</a> project
-- Creator and author of [Assistant Traders'](https://www.youtube.com/channel/UCFv_nGr8qpuX5ITMopY2d8A) YouTube channel
 </details>
 
 <details>
