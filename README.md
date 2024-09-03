@@ -16,7 +16,7 @@
 <details>
     <summary>🎯 <b>Key points</b></summary>
 
-- Full Stack Software Engineer at <a href="https://unitalk.cloud/about-company/">UniTalk Cloud</a> 
+- Full Stack Software Engineer at an IT company and co-founder of the <a href="https://assistant-traders.com/">Assistant Traders startup</a> 
 </details>
 
 <details>
